@@ -1,0 +1,12 @@
+2) Untersuchen Sie die heruntergeladene Datei mit einem Texteditor. Wie ist sie aufgebaut? 
+Was hat die Erste mit den darunter folgenden Zeilen zu tun? 
+Schreiben Sie eine kurze Erklärung stichwortartig in eine Datei namens csv.txt.
+
+
+-Die einzelnen Werte werden durch Semicolon getrennt.
+
+-Die csv-Datei erkennt überschriften (Eigenschaften) und ordnet es dann wie eine formatlose Tabelle an.
+
+-Nachkommastellen werden mit Punkt anstatt kommar getrennt.
+
+
